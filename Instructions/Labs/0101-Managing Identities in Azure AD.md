@@ -36,7 +36,7 @@ You've also been told that several more employees will be hired over the next co
 
 3. On the taskbar, select **Microsoft Edge**.
 
-4. In the address bar, enter **https://admin.microsoft.com**.
+4. In the address bar, enter **https://administrator.microsoft.com**.
 
 5. At the Sign-in prompt, enter **admin@yourtenant.onmicrosoft.com** and then select **Next**.
 
